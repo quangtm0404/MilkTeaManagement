@@ -1,0 +1,11 @@
+**Paypal Account
+email:sb-5px47t17408635@personal.example.com
+pass: 1II%0Bct
+
+** Admin Account 
+username: admin
+password: 1
+
+** User Account 
+username: user01
+password: 1
